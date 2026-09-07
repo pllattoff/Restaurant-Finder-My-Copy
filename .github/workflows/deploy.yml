@@ -1,4 +1,4 @@
-name: deploy.yml
+name: Full Stack Deployment
 on:
   push:
     branches:
